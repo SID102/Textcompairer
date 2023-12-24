@@ -1,0 +1,12 @@
+.maindiv{
+  background: linear-gradient(to left, #ffffff, #fbf9fb); 
+  background-color: #1d1b1b;
+  color: #f3f1f1;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  font-family:Georgia, serif;
+  box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+}
